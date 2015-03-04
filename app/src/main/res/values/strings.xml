@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Messigallery</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_for_frame">Select Frame</string>
+    <string name="title_activity_frame">Frame</string>
+    <string name="button_for_merge">Merge</string>
+    <string name="title_activity_merge">Merge</string>
+    <string name="saving_to_clipboard">Save to Clipboard</string>
+</resources>
