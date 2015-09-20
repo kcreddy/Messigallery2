@@ -20,7 +20,7 @@ import java.io.ByteArrayOutputStream;
 
 public class Frame extends ActionBarActivity {
 
-    //the images to display fg
+    //the images to display fghij
     Integer[] frameIDs = {
             R.drawable.frame1,
             R.drawable.frame2,
